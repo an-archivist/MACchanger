@@ -126,7 +126,7 @@ All scripts allow you to configure:
 
 ## License
 
-(Include your license or leave as needed)
+Attribution-ShareAlike 3.0 Unported
 
 ---
 
