@@ -1,5 +1,4 @@
 # MACchanger
-# MAC Address Rotation Scripts
 
 This repository contains scripts to rotate (spoof) the MAC address of your wireless network interface, for **Linux**, **Windows PowerShell**, and **Windows Batch** environments.
 
